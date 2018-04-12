@@ -1,0 +1,6 @@
+﻿  Assignment 08.cpp
+c:\users\javier\source\repos\assignment 08\assignment 08\assignment 08.cpp(35): warning C4129: '*': unrecognized character escape sequence
+c:\users\javier\source\repos\assignment 08\assignment 08\assignment 08.cpp(104): warning C4129: 'Y': unrecognized character escape sequence
+c:\users\javier\source\repos\assignment 08\assignment 08\assignment 08.cpp(134): warning C4129: 'N': unrecognized character escape sequence
+c:\users\javier\source\repos\assignment 08\assignment 08\assignment 08.cpp(68): warning C4102: 'defualt': unreferenced label
+  Assignment 08.vcxproj -> C:\Users\Javier\source\repos\Assignment 08\Debug\Assignment 08.exe
